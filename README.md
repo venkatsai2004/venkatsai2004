@@ -1,28 +1,61 @@
-# 💫 About Me:
-🔭 I’m currently working on <br>Real-Time Fraud Detection System :
-<br>Building a high-performance fraud detection pipeline with feature engineering, anomaly detection, and 
-<br>real-time classification to reduce false negatives and improve financial risk control.
-<br>ZeroCamVision – Audio-Driven Scene Generation :
-<br>Engineering a multimodal AI system that transforms environmental audio into dynamic
-<br>visual scenes using pre-trained generative models, RAG components, and scalable cloud API's
-<br>👯 I’m looking to collaborate on<br>Machine Learning / Deep Learning projects
-<br>Cloud + ML deployments (AWS, GCP)
-<br>LLM-based apps (RAG, model optimization, MLflow)
-<br>🤝 I’m looking for help with
-<br>Scaling LLM applications
-<br>Improving model performance and optimization
-<br>Industry-level project contributions
-<br>🌱 I’m currently learning
-<br>MLflow for experiment tracking
-<br>Kubernetes + ML Ops workflow
-<br>Advanced NLP & RAG architectures
-<br>💬 Ask me about
-<br>Machine Learning,Data Science
-<br>Building end-to-end ML pipelines
-<br>Cloud engineering (AWS, Azure, GCP)
-<br>Data Analysis, SQL, Power BI
-<br>LLM project design & prompt engineering
-<br>⚡ Fun fact<br>I turn complex ML ideas into simple workflows and love building stuff that actually works in production.
+## 🌟 About Me  
+Hi, I'm **Venkat Sai** — a Data Scientist, Cloud Engineer & AI Builder who loves building  
+**real-world, production-ready ML systems** that actually make an impact.
+
+---
+
+## 🔭 I’m currently working on
+
+### 🚨 Real-Time Fraud Detection System  
+Building a **high-performance fraud intelligence pipeline** with real-time ML scoring,  
+anomaly detection, and advanced feature engineering to reduce financial risk.
+
+### 🎧 ZeroCamVision – Audio → Visual Scene Generation  
+Engineering a **multimodal AI system** that transforms any environmental audio  
+into dynamic visual scenes using generative models, RAG, and cloud-native APIs.
+
+### 📊 Employee Retention Prediction (HR Analytics)  
+Developing a **churn prediction pipeline** optimized with advanced ML techniques  
+for enterprise-level HR decision-making.
+
+---
+
+## 👯 I’m looking to collaborate on  
+- Machine Learning / Deep Learning projects  
+- Cloud + ML pipelines (AWS, Azure, GCP)  
+- LLM-based apps (RAG, model optimization, MLflow)  
+- AI automation & intelligent systems  
+
+---
+
+## 🤝 I’m looking for help with  
+- Scaling LLM applications  
+- Improving ML performance & optimization  
+- Building enterprise-grade AI systems  
+
+---
+
+## 🌱 I’m currently learning  
+- **MLflow** for experiment tracking & model versioning  
+- **Kubernetes** + ML Ops workflow  
+- **Advanced NLP** & RAG architectures  
+- **Distributed ML systems**
+
+---
+
+## 💬 Ask me about  
+- Machine Learning, Data Science  
+- Building end-to-end ML pipelines  
+- Cloud Engineering (AWS, Azure, GCP)  
+- SQL, Power BI, Analytics  
+- LLM project design & prompt engineering  
+
+---
+
+## ⚡ Fun fact  
+I love turning **complex ML ideas into simple workflows** and building things  
+that actually work in real-world production environments.
+
 
 
 ## 🌐 Socials:
