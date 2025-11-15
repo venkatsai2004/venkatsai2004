@@ -1,5 +1,28 @@
 # 💫 About Me:
-🔭 I’m currently working on <br>Real-Time Fraud Detection System :<br>Building a high-performance fraud detection pipeline with feature engineering, anomaly detection, and <br>real-time classification to reduce false negatives and improve financial risk control.<br>ZeroCamVision – Audio-Driven Scene Generation :<br>Engineering a multimodal AI system that transforms environmental audio into dynamic<br>visual scenes using pre-trained generative models, RAG components, and scalable cloud API's<br>👯 I’m looking to collaborate on<br>Machine Learning / Deep Learning projects<br>Cloud + ML deployments (AWS, GCP)<br>LLM-based apps (RAG, model optimization, MLflow)<br>🤝 I’m looking for help with<br>Scaling LLM applications<br>Improving model performance and optimization<br>Industry-level project contributions<br>🌱 I’m currently learning<br>MLflow for experiment tracking<br>Kubernetes + ML Ops workflow<br>Advanced NLP & RAG architectures<br>💬 Ask me about<br>Machine Learning,Data Science <br>Building end-to-end ML pipelines<br>Cloud engineering (AWS, Azure, GCP)<br>Data Analysis, SQL, Power BI<br>LLM project design & prompt engineering<br>⚡ Fun fact<br>I turn complex ML ideas into simple workflows and love building stuff that actually works in production.
+🔭 I’m currently working on <br>Real-Time Fraud Detection System :
+<br>Building a high-performance fraud detection pipeline with feature engineering, anomaly detection, and 
+<br>real-time classification to reduce false negatives and improve financial risk control.
+<br>ZeroCamVision – Audio-Driven Scene Generation :
+<br>Engineering a multimodal AI system that transforms environmental audio into dynamic
+<br>visual scenes using pre-trained generative models, RAG components, and scalable cloud API's
+<br>👯 I’m looking to collaborate on<br>Machine Learning / Deep Learning projects
+<br>Cloud + ML deployments (AWS, GCP)
+<br>LLM-based apps (RAG, model optimization, MLflow)
+<br>🤝 I’m looking for help with
+<br>Scaling LLM applications
+<br>Improving model performance and optimization
+<br>Industry-level project contributions
+<br>🌱 I’m currently learning
+<br>MLflow for experiment tracking
+<br>Kubernetes + ML Ops workflow
+<br>Advanced NLP & RAG architectures
+<br>💬 Ask me about
+<br>Machine Learning,Data Science
+<br>Building end-to-end ML pipelines
+<br>Cloud engineering (AWS, Azure, GCP)
+<br>Data Analysis, SQL, Power BI
+<br>LLM project design & prompt engineering
+<br>⚡ Fun fact<br>I turn complex ML ideas into simple workflows and love building stuff that actually works in production.
 
 
 ## 🌐 Socials:
