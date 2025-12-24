@@ -6,23 +6,15 @@ Hi, I'm **Venkat Sai** — a Data Scientist, Cloud Engineer & AI Builder who lov
 
 ## 🔭 I’m currently working on
 
-### 🚨 Real-Time Fraud Detection System  
-Building a **high-performance fraud intelligence pipeline** with real-time ML scoring,  
-anomaly detection, and advanced feature engineering to reduce financial risk.
-
 ### 🎧 ZeroCamVision – Audio → Visual Scene Generation  
 Engineering a **multimodal AI system** that transforms any environmental audio  
 into dynamic visual scenes using generative models, RAG, and cloud-native APIs.
-
-### 📊 Employee Retention Prediction (HR Analytics)  
-Developing a **churn prediction pipeline** optimized with advanced ML techniques  
-for enterprise-level HR decision-making.
 
 ---
 
 ## 👯 I’m looking to collaborate on  
 - Machine Learning / Deep Learning projects  
-- Cloud + ML pipelines (AWS, Azure, GCP)  
+- Cloud + ML pipelines (AWS, Azure)  
 - LLM-based apps (RAG, model optimization, MLflow)  
 - AI automation & intelligent systems  
 
