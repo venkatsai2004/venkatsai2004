@@ -19,25 +19,9 @@ class VenkatSai:
     cloud    = ["AWS", "Azure", "GCP"]
     mantra   = "Ship ML that actually works in production."
 
-    def current_project(self):
-        return "ZeroCamVision"
-
-    def learning(self):
-        return ["MLflow", "Kubernetes", "Advanced NLP", "Distributed ML"]
-
-    def open_to(self):
-        return ["collabs", "scaling LLM apps", "enterprise-grade AI"]
 ```
 
-## 🔭 git log --current
 
-### 🎧 ZeroCamVision — Audio → Visual Scene Generation
-
-Multimodal AI system that turns environmental audio into dynamic visual scenes using generative models, RAG, and cloud-native APIs.
-
-![Status](https://img.shields.io/badge/status-in_progress-yellow?style=flat-square)
-![GenAI](https://img.shields.io/badge/GenAI-Multimodal-8A2BE2?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-enabled-0e75b6?style=flat-square)
 
 ## 🧰 cat stack.json
 
