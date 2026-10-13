@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bengaluru-India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hyderabad-India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/status-open_to_collab-00e5a8?style=flat-square" />
 </p>
 
