@@ -37,10 +37,7 @@ Multimodal AI system that turns environmental audio into dynamic visual scenes u
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **ML / AI**
 
@@ -71,18 +68,16 @@ Multimodal AI system that turns environmental audio into dynamic visual scenes u
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkhlcm9rdTwvdGl0bGU+PHBhdGggZD0iTTIwLjYxIDBIMy4zOUMyLjE4OSAwIDEuMjMuOTYgMS4yMyAyLjE2djE5LjY4MWMwIDEuMTk4Ljk1OSAyLjE1OSAyLjE2IDIuMTU5aDE3LjIyYzEuMiAwIDIuMTU5LS45NjEgMi4xNTktMi4xNTlWMi4xNkMyMi43Ny45NiAyMS44MTEgMCAyMC42MSAwem0uOTYgMjEuODQxYzAgLjUzOS0uNDIxLjk2LS45Ni45NkgzLjM5Yy0uNTQgMC0uOTYtLjQyMS0uOTYtLjk2VjIuMTZjMC0uNTQuNDItLjk2MS45Ni0uOTYxaDE3LjIyYy41MzkgMCAuOTYuNDIxLjk2Ljk2MXYxOS42ODF6TTYuNjMgMjAuMzk5TDkuMzMgMThsLTIuNy0yLjR2NC43OTl6bTkuNzItOS43MTljLS40NzktLjQ4LTEuMzc5LTEuMDgtMi44NzktMS4wOC0xLjYyMSAwLTMuMzAxLjQyMS00LjUuODRWMy42aC0yLjR2MTAuMzhsMS42OC0uNzhzMi43Ni0xLjI2IDUuMTYtMS4yNmMxLjIgMCAxLjUuNjYgMS41IDEuMjZ2Ny4yaDIuNHYtNy4yYy4wNTktLjE3OS4wNTktMS41MDEtLjk2MS0yLjUyek0xMy4xNyA3LjVoMi40YzEuMDgtMS4yNiAxLjYyLTIuNTIxIDEuOC0zLjloLTIuMzk5Yy0uMjQxIDEuMzc5LS44NDEgMi42NC0xLjgwMSAzLjl6Ii8+PC9zdmc+)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 **Data & Analytics**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
