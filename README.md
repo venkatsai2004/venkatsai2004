@@ -21,7 +21,15 @@ class VenkatSai:
 
 ```
 
+## 🔭 git log --current
 
+### 🎧 ZeroCamVision — Audio → Visual Scene Generation
+
+Multimodal AI system that turns environmental audio into dynamic visual scenes using generative models, RAG, and cloud-native APIs.
+
+![Status](https://img.shields.io/badge/status-in_progress-yellow?style=flat-square)
+![GenAI](https://img.shields.io/badge/GenAI-Multimodal-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-enabled-0e75b6?style=flat-square)
 
 ## 🧰 cat stack.json
 
@@ -103,7 +111,7 @@ need_help_with:
 ## 📊 github --stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=venkatsai2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=venkatsai2004&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatsai2004&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
 </p>
 
